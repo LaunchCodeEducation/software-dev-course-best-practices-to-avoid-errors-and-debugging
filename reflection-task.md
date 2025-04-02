@@ -1,18 +1,31 @@
-As you progress through the coding bootcamp, it's essential to think critically about how you approach writing and debugging code. Take some time to reflect on the following questions:
+# 💭 Reflection: Writing and Debugging with Purpose
 
+As you progress through the coding bootcamp, it's essential to think critically about **how you approach writing and debugging code**. Take some time to reflect on the questions below and consider how your practices have evolved.
 
-  - How have you applied best practices (like writing clean, modular code or validating inputs)
-  to prevent errors in your projects? Can you recall a specific instance where these practices
-  saved you from potential issues?
+---
 
-  - Think about a recent debugging experience. What tools or techniques did you use to identify
-  and resolve the problem? What did you learn from that process?
+## 🧠 Reflective Questions
 
-  - How has your understanding of the relationship between preventive coding practices and
-  debugging evolved during the bootcamp?
+- **Best Practices in Action**  
+  How have you applied best practices — like writing clean, modular code or validating inputs — to **prevent errors** in your projects?  
+  Can you recall a specific instance where these practices **saved you from potential issues**?
 
-  - Looking forward, how can you integrate these lessons into your workflow to write
-  more reliable, error-resistant code?
+- **Recent Debugging Experience**  
+  Think about a recent time you had to debug your code.  
+  What **tools or techniques** did you use to identify and fix the issue?  
+  What did you learn from that process?
 
+- **Evolving Understanding**  
+  How has your understanding of the connection between **preventive coding** and **debugging** changed during the bootcamp?
 
-Write a brief response or discuss with your peers to deepen your understanding of these concepts.
+- **Looking Ahead**  
+  How can you integrate these lessons into your **future workflow** to write more **reliable, error-resistant code**?
+
+---
+
+### ✍️ Your Task
+
+Write a brief response to one or more of the questions above.  
+You may also choose to **discuss your insights with peers** to explore different approaches and strengthen your learning.
+
+---
